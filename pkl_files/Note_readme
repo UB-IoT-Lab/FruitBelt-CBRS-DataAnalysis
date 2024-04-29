@@ -1,0 +1,5 @@
+file: data4.pkl(corresponding to data from 9/12/2022 21:00 to 10/12/2023 20:00)
+and
+file: 10_11_2022 000-11_23_2022 1500 (2).pkl (correspondig to data from 10/11/2022 0:00 to 11/23/2022 15:00) has repetition from 10/11/2022 0:00 to 11/12/2022 20:00.
+
+To avoid repetition, USE 10/11/2022 0:00 to 11/12/2022 20:00 data from 10_11_2022 000-11_23_2022 1500 (2) file and exlcude data of that period coming from data4.pkl file.
