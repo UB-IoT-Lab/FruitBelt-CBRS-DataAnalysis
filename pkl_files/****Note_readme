@@ -7,7 +7,7 @@ To avoid repetition, USE 10/11/2022 0:00 to 11/12/2022 20:00 data from 10_11_202
 and exclude data of that period coming from data4.pkl file.
 
 
-1.
+2.
 All the Pkl files are in this folder to extract the KPI data. 
 As an exception, use the 9_10_2022 1500-9_12_2022 2000.csv file data to manually add to the extracted data from pkl files. 
 The pkl file of this data is not found.
